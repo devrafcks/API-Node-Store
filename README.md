@@ -46,4 +46,4 @@ O projeto segue a estrutura abaixo:
 
 ## Como Usar
 
-Para testar a API, você pode usar ferramentas como **Postman** para realizar requisições HTTP. Abaixo estão alguns exemplos de como interagir com a API.
+Para testar a API, você pode usar ferramentas como **Postman** para realizar requisições HTTP.
