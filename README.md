@@ -2,6 +2,8 @@
 
 Este projeto consiste em uma API para gerenciamento de produtos, clientes e pedidos, construída com **Node.js**, **Express**, e **MongoDB**. A API foi desenvolvida durante um curso de criação de APIs oferecido pela **Balta.io**.
 
+![image](https://github.com/user-attachments/assets/c5ec0635-a4b5-4710-bce5-6e216e0d0ba2)
+
 ## Tecnologias Utilizadas
 
 - **Node.js**: Plataforma JavaScript para o backend.
