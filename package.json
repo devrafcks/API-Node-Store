@@ -1,0 +1,27 @@
+{
+  "name": "str",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/server.js",
+    "dev": "nodemon ./bin/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "debug": "^4.4.0",
+    "express": "^4.21.2",
+    "guid": "^0.0.12",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^7.0.2",
+    "md5": "^2.3.0",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.3",
+    "sendgrid": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
